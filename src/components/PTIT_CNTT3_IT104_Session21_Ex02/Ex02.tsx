@@ -2,7 +2,7 @@
 function Ex02() {
   return (
     <div>
-        <div className='w-[200px] h-[200px] rounded-[8px] bg-red-500'></div>
+        <div className="h-[200px] w-[200px] rounded-[8px] bg-gray-300"></div>
     </div>
   )
 }

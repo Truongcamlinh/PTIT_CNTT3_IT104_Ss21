@@ -1,6 +1,6 @@
 function Ex06() {
   return (
-    <div className='h-[200px] w-[500px] overflow-y-scroll border-2 border-black p-5 m-5'>
+    <div className="h-[200px] w-[500px] overflow-auto p-4 border border-gray-300">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus, eos vitae. Tempore vel error quidem ipsa nobis voluptas quae perferendis dolorem, cumque molestias minima itaque facere quod ipsam id voluptatibus.
       Tenetur accusantium harum adipisci, provident alias, veniam nostrum aperiam fuga beatae a reprehenderit dicta recusandae libero iste praesentium distinctio eveniet quo quae necessitatibus. Quia, cupiditate itaque? Dolorem blanditiis esse quas?
       Molestiae accusamus soluta adipisci natus beatae quos ullam voluptas! Numquam velit, accusantium quis at nam rerum vel esse, libero laboriosam cum consequuntur eaque vero doloribus modi temporibus id soluta cumque?

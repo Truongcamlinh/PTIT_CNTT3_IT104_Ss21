@@ -6,7 +6,6 @@ import Ex05 from './components/PTIT_CNTT3_IT104_Session21_Ex05/Ex05'
 import Ex06 from './components/PTIT_CNTT3_IT104_Session21_Ex06/Ex06'
 import Ex07 from './components/PTIT_CNTT3_IT104_Session21_Ex07/Ex07'
 import Ex08 from './components/PTIT_CNTT3_IT104_Session21_Ex08/Ex08'
-import BTTH from './components/PTIT_CNTT3_IT104_Session21_BTTH/BTTH'
 function App() {
   return (
     <div>
@@ -18,7 +17,6 @@ function App() {
       <Ex06/>
       <Ex07 />
       <Ex08 />
-      <BTTH/>
     </div>
   )
 }
