@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    padding:20px 30px;
+    background-color: #EF5466;
+    h2{
+        color: #FFDBDF;
+        margin: 0;
+    }
+    p{
+        color: #FFDBDF;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    hr{
+        border: 1px solid #FFDBDF;
+        margin: 10px 0;
+    }
+}
